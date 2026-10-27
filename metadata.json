@@ -1,0 +1,8 @@
+{
+  "name": "Image Compresser",
+  "description": "Compress JPEG, PNG, and WebP images directly in your browser with customizable quality, format conversion, and zip archive downloads.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
